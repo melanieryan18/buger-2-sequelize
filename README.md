@@ -1,1 +1,1 @@
-# buger-2-sequelize-
+# buger-2-sequelize
